@@ -1,3 +1,5 @@
+![logo](https://github.com/hemantgode44/hemantgode44/blob/main/DA.jpg)
+
 <h1 align="center">Hi 👋, I'm Hemant Gode</h1>
 <h3 align="center">Data Analyst</h3>
 
