@@ -66,4 +66,4 @@ This dashboard was developed using dummy/aggregated data for demonstration purpo
 
 ---
 
-© 2025 • Created with 💡 by [Your Name or Team]
+© 2025 • Created with 💡 by Hemant Gode
